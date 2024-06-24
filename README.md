@@ -1,2 +1,2 @@
 # Data_Vizu
-Remplir le README
+The aim of this notebook is to create an interactive map showing the effect of regions on first names in France from 1900 to 2020. Users should be able to quickly see which departments have the same most popular first name, according to the national top 3. They can also place their cursor over the department to see details of the 3 most popular first names within the department, with the associated number. If the department has a most popular name other than the top 3, it is grayed out to show that it is outside the national top 3.
